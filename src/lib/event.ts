@@ -178,11 +178,11 @@ export function buildIcs() {
   return [
     "BEGIN:VCALENDAR",
     "VERSION:2.0",
-    "PRODID:-//Gowtham and Narmaththa//Wedding Reception//EN",
+    "PRODID:-//Gowtham and Narmathha//Wedding Reception//EN",
     "CALSCALE:GREGORIAN",
     "METHOD:PUBLISH",
     "BEGIN:VEVENT",
-    `UID:gowtham-narmaththa-reception-20261119@invitation`,
+    `UID:gowtham-narmathha-reception-20261119@invitation`,
     `DTSTAMP:${stamp}`,
     `DTSTART:${EVENT.startUTC}`,
     `DTEND:${EVENT.endUTC}`,
@@ -206,7 +206,7 @@ export function downloadCalendar() {
   const url = URL.createObjectURL(blob);
   const link = document.createElement("a");
   link.href = url;
-  link.download = "Gowtham-Narmaththa-Reception-19-Nov-2026.ics";
+  link.download = "Gowtham-Narmathha-Reception-19-Nov-2026.ics";
   document.body.appendChild(link);
   link.click();
   document.body.removeChild(link);

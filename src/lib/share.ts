@@ -2,7 +2,7 @@ export type ShareResult = "shared" | "copied" | "cancelled" | "failed";
 
 const sharePayload = {
   title: "Gowtham & Narmathha — Wedding Reception",
-  text: "Together with our families, we invite you to celebrate the wedding reception of Gowtham & Narmaththa on Thursday, 19 November 2026 at Sri Adithya Mahal, Salem.",
+  text: "Together with our families, we invite you to celebrate the wedding reception of Gowtham & Narmathha on Thursday, 19 November 2026 at Sri Adithya Mahal, Salem.",
 };
 
 export async function shareInvitation(): Promise<ShareResult> {

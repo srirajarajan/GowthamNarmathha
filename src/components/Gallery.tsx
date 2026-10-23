@@ -171,7 +171,7 @@ export function Gallery() {
                   {current.tag}
                 </p>
                 <p className="mt-2 font-display text-xl text-ivory sm:text-2xl">{current.caption}</p>
-                <p className="mt-2 font-script text-lg text-ivory/45">Gowtham &amp; Narmaththa</p>
+                <p className="mt-2 font-script text-lg text-ivory/45">Gowtham &amp; Narmathha</p>
               </figcaption>
             </figure>
 

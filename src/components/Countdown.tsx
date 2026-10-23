@@ -65,7 +65,7 @@ export function Countdown() {
         </Reveal>
 
         <p className="sr-only">
-          Countdown to the wedding reception of Gowtham and Narmaththa on Thursday, 19 November 2026 at 6:00 PM
+          Countdown to the wedding reception of Gowtham and Narmathha on Thursday, 19 November 2026 at 6:00 PM
           India Standard Time, at Sri Adithya Mahal, Salem.
         </p>
 
