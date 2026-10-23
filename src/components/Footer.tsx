@@ -82,7 +82,15 @@ export function Footer() {
             Gowtham &amp; Narmathha · 19 November 2026
           </p>
           <p className="text-[7.5px] uppercase tracking-[0.22em] text-ink-soft/70">
-            A celebration of love · A digital keepsake
+         <a
+  href="https://www.instagram.com/wegrow457/"
+  target="_blank"
+  rel="noopener noreferrer"
+  aria-label="Designed by WeGrow — visit our Instagram"
+  class="text-[7.5px] uppercase tracking-[0.22em] text-ink-soft/70 transition-colors duration-300 hover:text-charcoal cursor-pointer"
+>
+  Designed by · WeGrow
+</a>
           </p>
           <a
             href="#home"
