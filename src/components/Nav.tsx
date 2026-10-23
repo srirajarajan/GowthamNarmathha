@@ -98,7 +98,7 @@ export function Nav({ onReplay }: { onReplay: () => void }) {
             <Monogram className="h-10 w-10 text-[9.5px] transition-transform duration-500 group-hover:-rotate-6 sm:h-11 sm:w-11 sm:text-[10px]" />
             <span className="flex flex-col">
               <span className="whitespace-nowrap font-display text-[13.5px] uppercase leading-none tracking-[0.14em] text-charcoal sm:text-[16px] sm:tracking-[0.16em]">
-                Gowtham <span className="font-script text-[1.15em] normal-case text-champagne">&amp;</span> Narmaththa
+                Gowtham <span className="font-script text-[1.15em] normal-case text-champagne">&amp;</span> Narmathha
               </span>
               <span className="mt-1 text-[8px] uppercase tracking-[0.28em] text-ink-soft sm:text-[8.5px]">
                 19 Nov 2026 · Salem
