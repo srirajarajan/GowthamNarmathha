@@ -128,7 +128,7 @@ export function Invitation({ notify }: { notify: (message: string) => void }) {
                             The couple
                           </p>
                           <p className="mt-1.5 text-[7.5px] uppercase tracking-[0.28em] text-ivory/70">
-                            Gowtham &amp; Narmaththa
+                            Gowtham &amp; Narmathha
                           </p>
                         </div>
                         <Monogram tone="ink" className="h-10 w-10 text-[8px]" />
@@ -157,7 +157,7 @@ export function Invitation({ notify }: { notify: (message: string) => void }) {
                   <Flourish className="mx-auto mt-3 h-4 w-48 lg:mx-0" />
 
                   <p className="mt-4 font-display text-[clamp(1.75rem,4vw,2.45rem)] leading-[1.15] text-charcoal">
-                    Gowtham <span className="font-script text-[1.1em] lowercase text-champagne">&amp;</span> Narmaththa
+                    Gowtham <span className="font-script text-[1.1em] lowercase text-champagne">&amp;</span> Narmathha
                   </p>
                   <p className="mt-1.5 font-script text-[1.25rem] leading-snug text-antique">
                     Two hearts, one beautiful journey
@@ -216,7 +216,7 @@ export function Invitation({ notify }: { notify: (message: string) => void }) {
                     Thursday, 19 November 2026 · Salem, Tamil Nadu
                   </p>
                   <p className="flex items-center gap-2 font-script text-xl text-antique">
-                    With love, Gowtham &amp; Narmaththa
+                    With love, Gowtham &amp; Narmathha
                     <Icon name="heart" className="h-3.5 w-3.5 text-champagne" />
                   </p>
                 </div>

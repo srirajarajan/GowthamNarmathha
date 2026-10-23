@@ -81,7 +81,7 @@ export function Countdown() {
               complete.
             </p>
             <p className="mt-6 text-[9px] uppercase tracking-[0.28em] text-ink-soft">
-              With love · Gowtham &amp; Narmaththa
+              With love · Gowtham &amp; Narmathha
             </p>
           </Reveal>
         ) : (

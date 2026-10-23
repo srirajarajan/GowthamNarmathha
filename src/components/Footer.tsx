@@ -20,7 +20,7 @@ export function Footer() {
               <Monogram className="h-14 w-14 text-[11px]" />
               <div>
                 <p className="font-display text-[1.35rem] uppercase leading-tight tracking-[0.12em] text-charcoal">
-                  Gowtham <span className="font-script text-[1.15em] normal-case text-champagne">&amp;</span> Narmaththa
+                  Gowtham <span className="font-script text-[1.15em] normal-case text-champagne">&amp;</span> Narmathha
                 </p>
                 <p className="mt-2 font-script text-xl leading-none text-antique">
                   Two hearts, one beautiful journey
@@ -79,7 +79,7 @@ export function Footer() {
 
         <div className="mt-12 flex flex-col items-center justify-between gap-4 border-t border-champagne/25 pt-6 sm:flex-row">
           <p className="text-[7.5px] uppercase tracking-[0.22em] text-ink-soft">
-            Gowtham &amp; Narmaththa · 19 November 2026
+            Gowtham &amp; Narmathha · 19 November 2026
           </p>
           <p className="text-[7.5px] uppercase tracking-[0.22em] text-ink-soft/70">
             A celebration of love · A digital keepsake

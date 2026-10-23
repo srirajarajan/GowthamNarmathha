@@ -60,7 +60,7 @@ export function Hero({ ready }: { ready: boolean }) {
                 </p>
                 <div className="mt-2 flex items-center justify-between gap-4">
                   <p className="text-[8px] uppercase tracking-[0.32em] text-ivory/75">
-                    Gowtham &amp; Narmaththa
+                    Gowtham &amp; Narmathha
                   </p>
                   <p className="text-[8px] uppercase tracking-[0.28em] text-ivory/60">19 · 11 · 2026</p>
                 </div>
@@ -107,7 +107,7 @@ export function Hero({ ready }: { ready: boolean }) {
               <span className="font-script text-[0.66em] normal-case leading-none text-champagne">&amp;</span>
               <span aria-hidden="true" className="h-px w-12 bg-gradient-to-l from-transparent to-champagne sm:w-20" />
             </span>
-            <span className="block">Narmaththa</span>
+            <span className="block">Narmathha</span>
           </h1>
 
           <p

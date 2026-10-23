@@ -94,7 +94,7 @@ export function Nav({ onReplay }: { onReplay: () => void }) {
         </div>
 
         <div className="mx-auto flex h-[72px] max-w-[1440px] items-center justify-between gap-3 px-4 sm:px-6 lg:h-[84px] lg:px-10">
-          <a href="#home" className="group flex items-center gap-3" aria-label="Gowtham and Narmaththa — home">
+          <a href="#home" className="group flex items-center gap-3" aria-label="Gowtham and Narmathha — home">
             <Monogram className="h-10 w-10 text-[9.5px] transition-transform duration-500 group-hover:-rotate-6 sm:h-11 sm:w-11 sm:text-[10px]" />
             <span className="flex flex-col">
               <span className="whitespace-nowrap font-display text-[13.5px] uppercase leading-none tracking-[0.14em] text-charcoal sm:text-[16px] sm:tracking-[0.16em]">
@@ -195,7 +195,7 @@ export function Nav({ onReplay }: { onReplay: () => void }) {
               <Monogram className="h-10 w-10 text-[9.5px]" />
               <div>
                 <p className="font-display text-base uppercase tracking-[0.14em] text-charcoal">
-                  Gowtham <span className="font-script text-[1.15em] normal-case text-champagne">&amp;</span> Narmaththa
+                  Gowtham <span className="font-script text-[1.15em] normal-case text-champagne">&amp;</span> Narmathha
                 </p>
                 <p className="mt-0.5 text-[8px] uppercase tracking-[0.28em] text-ink-soft">
                   Wedding Reception · 2026

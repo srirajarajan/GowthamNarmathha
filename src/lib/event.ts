@@ -1,7 +1,7 @@
 export const EVENT = {
   groom: "Gowtham",
-  bride: "Narmaththa",
-  couple: "Gowtham & Narmaththa",
+  bride: "Narmathha",
+  couple: "Gowtham & Narmathha",
   eventName: "Wedding Reception",
   day: "Thursday",
   dateLabel: "19 November 2026",
@@ -27,19 +27,19 @@ export const EVENT = {
 export const IMAGES = {
   hero: {
     src: "/images/hero-portrait.jpg",
-    alt: "Gowtham and Narmaththa together in traditional reception attire — Narmaththa in a purple silk saree and Gowtham in a royal blue suit.",
+    alt: "Gowtham and Narmathha together in traditional reception attire — Narmathha in a purple silk saree and Gowtham in a royal blue suit.",
   },
   traditional: {
     src: "/images/traditional-portrait.jpg",
-    alt: "Gowtham and Narmaththa in traditional South Indian wedding attire, smiling together in a sunlit portrait.",
+    alt: "Gowtham and Narmathha in traditional South Indian wedding attire, smiling together in a sunlit portrait.",
   },
   car: {
     src: "/images/car-moment.jpg",
-    alt: "A cinematic moment of Gowtham and Narmaththa facing one another inside a car, glowing in warm golden light.",
+    alt: "A cinematic moment of Gowtham and Narmathha facing one another inside a car, glowing in warm golden light.",
   },
   ivory: {
     src: "/images/ivory-portrait.jpg",
-    alt: "Gowtham and Narmaththa in coordinated ivory and cream outfits, smiling warmly together.",
+    alt: "Gowtham and Narmathha in coordinated ivory and cream outfits, smiling warmly together.",
   },
   henna: {
     src: "/images/henna-detail.jpg",
@@ -47,7 +47,7 @@ export const IMAGES = {
   },
   dusk: {
     src: "/images/reception-dusk.jpg",
-    alt: "Gowtham and Narmaththa sharing a joyful moment under a rose arch at dusk, surrounded by warm lights.",
+    alt: "Gowtham and Narmathha sharing a joyful moment under a rose arch at dusk, surrounded by warm lights.",
   },
   invitation: {
     src: "/images/invitation-card-art.jpg",
@@ -117,7 +117,7 @@ export const GALLERY = [
     alt: IMAGES.invitation.alt,
     caption: "A keepsake of a new beginning",
     tag: "The invitation",
-    aspect: "aspect-[4/3]",
+    aspect: "aspect-[4/5]",
     position: "object-center",
   },
 ] as const;

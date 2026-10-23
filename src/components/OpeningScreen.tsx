@@ -183,7 +183,7 @@ export function OpeningScreen({ onEnter }: { onEnter: () => void }) {
                       Our forever begins
                     </p>
                     <p className="mt-1.5 text-[8.5px] uppercase tracking-[0.3em] text-ivory/70">
-                      Gowtham &amp; Narmaththa
+                      Gowtham &amp; Narmathha
                     </p>
                   </div>
                   <span className="hidden shrink-0 border-l border-ivory/25 pl-4 text-right text-[8px] uppercase tracking-[0.24em] leading-relaxed text-ivory/60 sm:block">

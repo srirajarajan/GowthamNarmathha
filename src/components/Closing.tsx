@@ -19,7 +19,7 @@ export function Closing({
 
   return (
     <section
-      aria-label="With love from Gowtham and Narmaththa"
+      aria-label="With love from Gowtham and Narmathha"
       className="relative flex min-h-[86svh] items-center justify-center overflow-hidden bg-charcoal"
     >
       <img
@@ -45,7 +45,7 @@ export function Closing({
           </h2>
           <Flourish className="mx-auto mt-6 h-4 w-48 text-champagne/70" />
           <p className="mt-6 font-script text-[2rem] leading-tight text-champagne-light sm:text-[2.5rem]">
-            Gowtham &amp; Narmaththa
+            Gowtham &amp; Narmathha
           </p>
           <p className="mx-auto mt-4 max-w-[460px] text-[9px] uppercase leading-[2.1] tracking-[0.22em] text-ivory/60 sm:text-[9.5px]">
             {EVENT.dateLong} · 6:00 PM onwards
